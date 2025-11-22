@@ -1,0 +1,5 @@
+ripser
+persim
+numpy
+matplotlib
+scipy
